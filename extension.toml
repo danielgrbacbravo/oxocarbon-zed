@@ -4,4 +4,4 @@ schema_version = 1
 version = "0.0.1"
 authors = ["Daniel Grbac Bravo <daniel@danigrb.dev>"]
 description = "A collection of Oxocarbon themes for Zed"
-repository = "https://github.com/danielgrbacbravo/oxocarbon-zed-theme.git"
+repository = "https://github.com/danielgrbacbravo/oxocarbon-zed.git"
