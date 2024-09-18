@@ -1,5 +1,15 @@
 # Oxocarbon for Zed
 
+</div>
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/danielgrbacbravo/oxocarbon-zed?color=%23b66467&style=for-the-badge)](https://github.com/nyoom-engineering/oxocarbon/stargazers)
+[![GitHub Issues](https://img.shields.io/github/issues/danielgrbacbravo/oxocarbon-zed?color=%238c977d&style=for-the-badge)](https://github.com/nyoom-engineering/oxocarbon/issues)
+
+</div>
+
+
 **Oxocarbon for Zed**
 A dark and light theme for Zed inspired by the [IBM Carbon Design System](https://carbondesignsystem.com/guidelines/color/overview/#themes) and based on the Neovim oxocarbon theme.
 
@@ -9,7 +19,7 @@ The color palette is rooted in the same principles that define the IBM design sy
 - Dark and Light themes
 - Optimized for readability with a focus on a vibrant blue palette and nuanced grays
 - Minimal distraction, highlighting core elements with subtle color accents
-- Based on the oxocarbon.nvim colorscheme
+- Based on the [oxocarbon.nvim](https://github.com/nyoom-engineering/oxocarbon.nvim.git) colorscheme
 
 ## Assets
 - Dark Mode Preview: ![oxocarbon-dark](assets/oxocarbon-dark.webp)
