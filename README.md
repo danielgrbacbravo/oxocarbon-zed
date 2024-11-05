@@ -24,7 +24,7 @@ The color palette is rooted in the same principles that define the IBM design sy
 ## Assets
 - Dark Mode Preview: ![oxocarbon-dark](assets/oxocarbon-dark.webp)
 - Light Mode Preview: ![oxocarbon-light](assets/oxocarbon-light.webp)
-- Combined Palette: ![oxocarbon-5](assets/oxocarbon-5.webp)
+- Oxocarbon 5 Palette: ![oxocarbon-5](assets/oxocarbon-5.webp)
 
 ## License
 
