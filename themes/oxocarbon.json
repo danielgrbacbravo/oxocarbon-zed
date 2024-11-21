@@ -18,7 +18,7 @@
         "elevated_surface.background": "#121212",
         "surface.background": "#121212",
         "background": "#161616",
-        "element.background": "#ee5396",
+        "element.background": "#121212",
         "element.hover": "#262626",
         "element.active": null,
         "element.selected": "#262626",
@@ -196,7 +196,7 @@
             "color": "#ff7eb6",
             "background_color": null,
             "font_style": null,
-            "font_weight": 600
+            "font_weight": 400
           },
           "keyword": {
             "color": "#78a9ff",
